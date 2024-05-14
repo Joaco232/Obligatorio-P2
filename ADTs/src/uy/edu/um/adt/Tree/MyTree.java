@@ -1,6 +1,6 @@
-package uy.edu.um.adt.Tree;
+package ADTs.src.uy.edu.um.adt.Tree;
 
-import uy.edu.um.adt.exceptions.ElementNotFound;
+import ADTs.src.uy.edu.um.adt.exceptions.ElementNotFound;
 
 public interface MyTree<K, T> {
 

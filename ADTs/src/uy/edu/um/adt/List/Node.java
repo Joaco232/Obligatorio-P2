@@ -1,4 +1,4 @@
-package uy.edu.um.adt.List;
+package ADTs.src.uy.edu.um.adt.List;
 
 public class Node<T> {
     private T value;

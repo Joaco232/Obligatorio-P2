@@ -1,6 +1,6 @@
-package uy.edu.um.adt.List;
+package ADTs.src.uy.edu.um.adt.List;
 
-import uy.edu.um.adt.exceptions.*;
+import ADTs.src.uy.edu.um.adt.exceptions.*;
 
 public interface MyList<T> {
 

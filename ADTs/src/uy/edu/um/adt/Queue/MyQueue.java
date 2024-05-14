@@ -1,6 +1,6 @@
-package uy.edu.um.adt.Queue;
+package ADTs.src.uy.edu.um.adt.Queue;
 
-import uy.edu.um.adt.exceptions.EmptyQueueException;
+import ADTs.src.uy.edu.um.adt.exceptions.EmptyQueueException;
 
 public interface MyQueue<T> {
 

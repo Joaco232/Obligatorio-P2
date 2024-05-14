@@ -1,4 +1,4 @@
-package uy.edu.um.adt.Tree;
+package ADTs.src.uy.edu.um.adt.Tree;
 
 public class TreeNode<K, T> {
     private K key;
